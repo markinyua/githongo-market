@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Githongo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .main {
+            margin: 20px 0;
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Welcome to Githongo</h1>
+        </div>
+    </header>
+    <div class="container main">
+        <section id="about">
+            <h2>About Githongo</h2>
+            <p>Githongo is a charming town located in Meru County, Kenya. Nestled against the backdrop of the majestic Mt. Kenya Forest, Githongo boasts lush tea farms and a vibrant community.</p>
+        </section>
+        <section id="attractions">
+            <h2>Attractions & Landmarks</h2>
+            <p>One of the key attractions in Githongo is the Githongo Stadium, a beautiful venue where locals gather for various events, particularly football matches. The surrounding tea farms and proximity to Mt. Kenya Forest offer scenic views and opportunities for nature walks.</p>
+        </section>
+        <section id="activities">
+            <h2>Popular Activities & Events</h2>
+            <p>Playing football at the Githongo Stadium is a popular pastime. The town also hosts a bustling marketplace every Sunday, where people from far and wide come to sell and buy clothes, utensils, shoes, and other goods. This weekly event significantly boosts the local economy.</p>
+        </section>
+        <section id="food">
+            <h2>Food & Dining</h2>
+            <p>Githongo is home to several notable eateries, including the popular Pork Center, known for its delicious pork dishes. The town offers a variety of dining options to suit different tastes.</p>
+        </section>
+        <section id="community">
+            <h2>Community & Lifestyle</h2>
+            <p>The people of Githongo are peace-loving and live with minimal influence from the outside world. The town is experiencing rapid economic growth, particularly evident on Sundays when the population increases dramatically due to the vibrant marketplace activities.</p>
+        </section>
+    </div>
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Githongo. All Rights Reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
